@@ -12,8 +12,6 @@ int main(int argc, char const *argv[]) {
   else {
     printf("The number is even \n");
   }
-
-
-
+  
   return 0;
 }
