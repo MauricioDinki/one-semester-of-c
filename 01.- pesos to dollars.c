@@ -1,9 +1,9 @@
-#include <stdio.h>
+# include <stdio.h>
 
 int main(int argc, char const *argv[]) {
 
   float pesos, dollars, coin;
-
+  
   printf("Insert the pesos to change \n");
   scanf("%f", &pesos);
 
