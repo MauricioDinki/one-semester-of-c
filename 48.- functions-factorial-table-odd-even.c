@@ -69,4 +69,5 @@ void odd(int number) {
   } else {
     printf("The number is not odd\n");
   }
+  return;
 }
